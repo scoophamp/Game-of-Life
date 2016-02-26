@@ -1,0 +1,6 @@
+C:\Users\Hamp\Desktop\Skola\Metodik och Algoritmkunskap\Test\Test\bin\Debug\Test.exe.config
+C:\Users\Hamp\Desktop\Skola\Metodik och Algoritmkunskap\Test\Test\bin\Debug\Test.exe
+C:\Users\Hamp\Desktop\Skola\Metodik och Algoritmkunskap\Test\Test\bin\Debug\Test.pdb
+C:\Users\Hamp\Desktop\Skola\Metodik och Algoritmkunskap\Test\Test\obj\Debug\Test.csprojResolveAssemblyReference.cache
+C:\Users\Hamp\Desktop\Skola\Metodik och Algoritmkunskap\Test\Test\obj\Debug\Test.exe
+C:\Users\Hamp\Desktop\Skola\Metodik och Algoritmkunskap\Test\Test\obj\Debug\Test.pdb
